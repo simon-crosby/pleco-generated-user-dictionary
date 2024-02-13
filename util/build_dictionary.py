@@ -5,7 +5,7 @@ PLECO_BOLD_START = u'\ueab2'
 PLECO_BOLD_END = u'\ueab3'
 
 def read_word_file(word):
-    with open(f"results/{word}", encoding="utf-8") as input_file:
+    with open(f"../words/{word}", encoding="utf-8") as input_file:
         return input_file.read()
 
 def process_word(word, output_file):
@@ -30,7 +30,7 @@ def create_dictionary():
 
 
 def get_words():
-    return os.listdir("results/")
+    return os.listdir("../words/")
 
 
 if __name__ == "__main__":
