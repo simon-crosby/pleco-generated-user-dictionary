@@ -1,0 +1,59 @@
+ZH: 二进制是一种用0和1表示数值的计数系统。
+EN: Binary is a counting system that uses 0 and 1 to represent values.
+
+ZH: 计算机将所有数据转化为二进制数进行处理。
+EN: Computers convert all data into binary numbers for processing.
+
+ZH: 二进制编码可用于压缩和存储数据。
+EN: Binary encoding can be used to compress and store data.
+
+ZH: 二进制序列可以表示字母、数字和符号。
+EN: Binary sequences can represent letters, numbers, and symbols.
+
+ZH: 二进制通常被用于编写计算机程序。
+EN: Binary is often used for writing computer programs.
+
+ZH: 运算符可以在二进制数之间执行各种操作。
+EN: Operators can perform various operations between binary numbers.
+
+ZH: 转换一个十进制数为二进制需要相应的算法。
+EN: Converting a decimal number to binary requires a specific algorithm.
+
+ZH: 二进制数系统也被称为基数为2的数制。
+EN: The binary numeral system is also known as the base-2 numeral system.
+
+ZH: 在二进制数中，每位的权重是2的倍数。
+EN: In binary numbers, each digit has a weight that is a multiple of 2.
+
+ZH: 二进制是一种非常简单且能被计算机直接理解的数制。
+EN: Binary is a very simple numeral system that can be directly understood by computers.
+
+ZH: 借助二进制位运算，可以高效地执行一些特定操作。
+EN: Binary bitwise operations can efficiently perform certain specific operations.
+
+ZH: 二进制位数越多，能表示的数值范围越大。
+EN: The more binary bits there are, the larger the range of values that can be represented.
+
+ZH: 计算机内存中的数据以二进制形式存储。
+EN: Data in computer memory is stored in binary form.
+
+ZH: 存储容量一般以字节（二进制位的组合）为单位。
+EN: Storage capacity is usually measured in bytes, which are a combination of binary bits.
+
+ZH: 二进制数字常用于表达图像和音频数据。
+EN: Binary digits are commonly used to represent image and audio data.
+
+ZH: 在二进制系统中，每个数字位只能是0或1。
+EN: In the binary system, each digit can only be 0 or 1.
+
+ZH: 二进制中的位数可以通过位移操作进行增加或减少。
+EN: The number of bits in binary can be increased or decreased through bit shifting operations.
+
+ZH: 二进制运算规则包括加法、减法、乘法和除法。
+EN: Binary arithmetic operations include addition, subtraction, multiplication, and division.
+
+ZH: 二进制可以表示实数，通过使用小数点后的位数。
+EN: Binary can represent real numbers by using digits after the decimal point.
+
+ZH: 二进制数的最高位是符号位，表示正负性。
+EN: The highest bit of a binary number is the sign bit, indicating its positive or negative nature.

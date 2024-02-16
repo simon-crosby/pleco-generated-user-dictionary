@@ -1,0 +1,59 @@
+ZH: 请注意，这两个任务是并发执行的。
+EN: Please be aware that these two tasks are executed concurrently.
+
+ZH: 这个系统可以处理并发请求。
+EN: This system can handle concurrent requests.
+
+ZH: 开发人员需要考虑并发性能问题。
+EN: Developers need to consider concurrency performance issues.
+
+ZH: 并发编程需要注意线程安全。
+EN: Concurrency programming requires attention to thread safety.
+
+ZH: 这两个操作在并发环境中可能导致数据冲突。
+EN: These two operations might cause data conflicts in a concurrent environment.
+
+ZH: 不同的线程可能同时并发访问同一个资源。
+EN: Different threads may simultaneously access the same resource concurrently.
+
+ZH: 我们需要通过加锁来保证并发操作的正确性。
+EN: We need to ensure the correctness of concurrent operations by using locks.
+
+ZH: 这个算法能有效地处理并发问题。
+EN: This algorithm can effectively handle concurrency problems.
+
+ZH: 并发执行可以提高系统的响应速度。
+EN: Concurrent execution can improve the system's response time.
+
+ZH: 执行并发任务时要注意调度的合理性。
+EN: When executing concurrent tasks, it is important to consider the rationality of scheduling.
+
+ZH: 并发操作可能会导致资源竞争问题。
+EN: Concurrent operations may lead to resource contention issues.
+
+ZH: 这个并发框架允许开发者轻松处理多线程任务。
+EN: This concurrent framework allows developers to easily handle multi-threaded tasks.
+
+ZH: 多个用户可以同时并发访问这个应用程序。
+EN: Multiple users can concurrently access this application.
+
+ZH: 并发执行的任务可以充分利用计算资源。
+EN: Concurrently executing tasks can make full use of computational resources.
+
+ZH: 并发编程需要处理好线程间的通信问题。
+EN: Concurrency programming requires handling inter-thread communication properly.
+
+ZH: 这个数据库系统支持并发事务。
+EN: This database system supports concurrent transactions.
+
+ZH: 并发控制是数据库系统中重要的技术之一。
+EN: Concurrency control is one of the important techniques in database systems.
+
+ZH: 在并发执行时，需要考虑各个任务之间的依赖关系。
+EN: When executing concurrently, it is necessary to consider the dependencies between tasks.
+
+ZH: 这个问题可以通过并发计算得到更快的解决方法。
+EN: This problem can be solved faster by using concurrent computing.
+
+ZH: 并发操作可以提高系统的吞吐量。
+EN: Concurrent operations can improve the system's throughput.

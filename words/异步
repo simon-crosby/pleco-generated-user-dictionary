@@ -1,0 +1,59 @@
+ZH: 异步通信是一种不同步的数据传输方式。
+EN: Asynchronous communication is a type of data transfer that is not synchronized.
+
+ZH: 这个程序使用异步处理方式来提高效率。
+EN: This program uses asynchronous processing to improve efficiency.
+
+ZH: 网络游戏需要异步更新来保持实时性。
+EN: Online games require asynchronous updates to maintain real-time performance.
+
+ZH: 异步编程对于处理大数据量非常有用。
+EN: Asynchronous programming is very useful for handling large amounts of data.
+
+ZH: 这个软件支持异步下载功能，可以同时下载多个文件。
+EN: This software supports asynchronous downloading, allowing you to download multiple files simultaneously.
+
+ZH: 异步任务会在后台运行，不会影响主线程的执行。
+EN: Asynchronous tasks run in the background and do not affect the execution of the main thread.
+
+ZH: 异步回调可以在任务完成后自动触发相应的操作。
+EN: Asynchronous callbacks can automatically trigger corresponding actions once the task is completed.
+
+ZH: 当前操作正在进行中，请等待异步任务完成。
+EN: The current operation is in progress, please wait for the asynchronous task to complete.
+
+ZH: 这个接口可以实现异步加载图片的功能。
+EN: This interface can implement the functionality of asynchronously loading images.
+
+ZH: 异步传输能够减少数据丢失的可能性。
+EN: Asynchronous transmission can reduce the possibility of data loss.
+
+ZH: 利用异步发送邮件可以提高邮箱的发送速度。
+EN: Utilizing asynchronous mail sending can improve the speed of sending emails.
+
+ZH: 异步操作可以提高用户体验，减少等待时间。
+EN: Asynchronous operations can improve user experience and reduce waiting time.
+
+ZH: 这个程序使用异步通知的方式来更新数据。
+EN: This program uses asynchronous notifications to update data.
+
+ZH: 一个异步任务可能会依赖于其他任务的完成。
+EN: An asynchronous task may depend on the completion of other tasks.
+
+ZH: 异步编程需要注意线程安全性的问题。
+EN: Asynchronous programming requires attention to thread safety issues.
+
+ZH: 这个库提供了一套强大的异步处理工具。
+EN: This library provides a powerful set of asynchronous processing tools.
+
+ZH: 使用异步方式可以避免某些资源的阻塞问题。
+EN: Using asynchronous methods can avoid blocking issues with certain resources.
+
+ZH: 异步加载页面内容可以加快网页的加载速度。
+EN: Asynchronously loading page content can speed up webpage loading.
+
+ZH: 异步调用可以实现分布式系统的协同工作。
+EN: Asynchronous calls can facilitate the collaborative work of distributed systems.
+
+ZH: 请等待异步任务完成后再进行操作。
+EN: Please wait for the asynchronous task to complete before proceeding with the operation.

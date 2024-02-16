@@ -1,0 +1,56 @@
+ZH: 分布式数据库是一种将数据存储在多个计算机节点上的技术。
+EN: Distributed database is a technology that stores data on multiple computer nodes.
+
+ZH: 这个系统采用了分布式存储的方式来解决大量数据的传输问题。
+EN: This system uses distributed storage to address the issue of transferring large amounts of data.
+
+ZH: 随着云计算的发展，分布式计算变得越来越普遍。
+EN: With the development of cloud computing, distributed computing is becoming increasingly prevalent.
+
+ZH: 分布式网络可以提高系统的可靠性和容错性。
+EN: Distributed networks can improve system reliability and fault tolerance.
+
+ZH: 这个应用程序采用了分布式架构，可以处理大量的并发请求。
+EN: This application adopts a distributed architecture and can handle a large number of concurrent requests.
+
+ZH: 分布式系统可以实现资源的共享和利用。
+EN: Distributed systems can achieve resource sharing and utilization.
+
+ZH: 分布式算法是在多个计算机节点上进行的算法计算。
+EN: Distributed algorithms are calculations performed on multiple computer nodes.
+
+ZH: 分布式文件系统可以实现大规模数据的共享和管理。
+EN: Distributed file systems can achieve sharing and management of large-scale data.
+
+ZH: 这个软件系统采用了分布式部署，以提高系统的性能和扩展性。
+EN: This software system employs distributed deployment to enhance system performance and scalability.
+
+ZH: 分布式计算可以将任务分解成多个子任务并并行执行。
+EN: Distributed computing can decompose tasks into multiple sub-tasks and execute them in parallel.
+
+ZH: 分布式存储系统可以提供高可靠性和高可扩展性。
+EN: Distributed storage systems can provide high reliability and scalability.
+
+ZH: 分布式数据库可以实现数据在多个节点之间的自动同步。
+EN: Distributed databases can achieve automatic synchronization of data between multiple nodes.
+
+ZH: 分布式系统可以提高系统的灵活性和可拓展性。
+EN: Distributed systems can improve system flexibility and scalability.
+
+ZH: 分布式应用程序可以在不同的机器上同时运行和交互。
+EN: Distributed applications can run and interact on different machines simultaneously.
+
+ZH: 分布式计算可以将任务分配到多个计算机节点上并行处理。
+EN: Distributed computing can assign tasks to multiple computer nodes for parallel processing.
+
+ZH: 这个分布式架构可以实现负载均衡和容错的功能。
+EN: This distributed architecture can achieve load balancing and fault tolerance.
+
+ZH: 分布式网络可以分担单一节点的通信负载，提高网络性能。
+EN: Distributed networks can share the communication load of a single node and improve network performance.
+
+ZH: 利用分布式处理，这个系统可以实现海量数据的实时分析。
+EN: With distributed processing, this system can achieve real-time analysis of massive data.
+
+ZH: 分布式文件系统可以实现文件的冗余备份，提供数据的安全性。
+EN: Distributed file systems can achieve redundant backups of files and provide data security.
